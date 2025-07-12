@@ -16,7 +16,8 @@ by training:
 - `view_results.ipynb`: visualizes progress over epochs
 
 ### Example Output:
-(attach one or two `output_color_epoch*.png` images here)
+<img width="266" height="134" alt="image" src="https://github.com/user-attachments/assets/bf61c9c8-38d0-4776-b312-6376787d5d8b" />
+<img width="266" height="134" alt="image" src="https://github.com/user-attachments/assets/5f53aeea-42b4-4705-84bd-ea0e717b2c26" />
 
 ---
 This reproduces the compositional generalization discussed in the paper, showing improved performance over a monolithic VAE.
